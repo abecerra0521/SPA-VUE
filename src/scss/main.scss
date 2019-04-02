@@ -1,0 +1,12 @@
+
+@import '../node_modules/bulma/bulma.sass';
+$principal-color: blue;
+
+body{
+    color: $principal-color;
+}
+
+.main-container{
+    margin: 20px;
+    text-align: center;
+}
